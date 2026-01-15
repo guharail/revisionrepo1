@@ -2,4 +2,5 @@
 read -p "Enter first value" num1
 read -p "Enter seond value" num5
 prod= $(( $num1 * $num2 ))
+#Comment 1
 echo "The product is ${prod}"
