@@ -1,5 +1,5 @@
 #!/bin/bash
 read -p "Enter first value" num1
-read -p "Enter seond value" num4
+read -p "Enter seond value" num5
 prod= $(( $num1 * $num2 ))
 echo "The product is ${prod}"
